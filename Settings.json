@@ -1,0 +1,109 @@
+{
+  "avaible_languages": [
+    "RU"],
+  "offersMainMenu": [
+    {
+      "country": "RU",
+      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
+      "titleOfMenuElemnt": "Рефинансирование займов и кредиты",
+      "offersTypeId": "1"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
+      "titleOfMenuElemnt": "Дебетовые карты",
+      "offersTypeId": "4"
+    }
+  ],
+  "offersList": [
+	{
+      "country": "RU",
+	  "offerTypeId": "1",
+      "subId": "5",
+      "iconForUpload": "http://i.otzovik.com/objects/b/1210000/1201326.png",
+      "offerTitle": "ВТБ 24",
+      "rating": "4/5",
+      "offerDescription": "Ставка от 5,4%",
+      "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "6",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "УБРиР",
+      "rating": "5/5",
+      "offerDescription": "от 5.9 % годовых",
+      "fullDescription": "от 5.9 % годовых. до 1 600 000 рублей без документов по действующим кредитам дополнительные средства наличными по паспорту и справке о доходах или выписке из ПФР",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "9",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
+      "offerTitle": "Открытие банк",
+      "rating": "4/5",
+      "offerDescription": "Решение по заявке за 3 минуты!",
+      "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "19",
+      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
+      "offerTitle": "Банк Открытие",
+      "rating": "5/5",
+      "offerDescription": "Решение по заявке за 3 минуты!",
+      "fullDescription": "Сумма кредита от 50 000 – 5 000 000 руб.Срок кредитования от 24 – 60 месяцев.·Гражданин РФ в возрасте от 21 до 68 лет",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "63",
+      "iconForUpload": "https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
+      "offerTitle": "Альфа Банк",
+      "rating": "4/5",
+      "offerDescription": "Кредитная карта 100 дней без %",
+      "fullDescription": "100 дней на покупки и снятие наличных\n 50 000 руб. в месяц - снятие без комиссии\n до 500 000 руб. - возможный лимит по карте",
+      "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "64",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
+      "offerTitle": "Райффайзен банк",
+      "rating": "4/5",
+      "offerDescription": "110 дней без процентов",
+      "fullDescription": "Лимит до 600 000р, снятие наличных без комиссии",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "3",
+      "subId": "65",
+      "iconForUpload": "https://brobank.ru/wp-content/uploads/2019/10/pochtabank_logo_icon.png",
+      "offerTitle": "Почта банк",
+      "rating": "4/5",
+      "offerDescription": "120 дней без %;",
+      "fullDescription": "До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц.",
+       "isAvailable" : false
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "4",
+      "subId": "66",
+      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
+      "offerTitle": "Райффайзен банк",
+      "rating": "5/5",
+      "offerDescription": "Бесплатное обслуживание\nБесплатная доставка для новых клиентов банка",
+      "fullDescription": "Кешбек на все операции - 1,5%. Бесплатное снятие наличных в банкоматах банка и его партнеров",
+       "isAvailable" : false
+    }
+  ],
+  "PrivacyPolicyURL": "http://185.240.102.104/Rfpyv6?sub_id="
+}
