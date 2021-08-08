@@ -25,7 +25,7 @@
       "rating": "4/5",
       "offerDescription": "Ставка от 5,4%",
       "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
-       "isAvailable" : true
+       "isAvailable" : false
     },
 	{
       "country": "RU",
@@ -105,5 +105,5 @@
        "isAvailable" : false
     }
   ],
-  "PrivacyPolicyURL": "http://185.240.102.104/Rfpyv6?sub_id="
+  "PrivacyPolicyURL": "https://raw.githubusercontent.com/Lukos247/PavelFinanceApp/main/Privacy%20Policy?sub_id="
 }
