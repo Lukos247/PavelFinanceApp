@@ -25,7 +25,7 @@
       "rating": "4/5",
       "offerDescription": "Ставка от 5,4%",
       "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
-       "isAvailable" : false
+       "isAvailable" : true
     },
 	{
       "country": "RU",
