@@ -5,28 +5,17 @@
     {
       "country": "RU",
       "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
-      "titleOfMenuElemnt": "Моментальные займы",
+      "titleOfMenuElemnt": "Кредиты",
       "offersTypeId": "1"
     },
     {
       "country": "RU",
       "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
-      "titleOfMenuElemnt": "Кредитные карты",
-      "offersTypeId": "2"
+      "titleOfMenuElemnt": "Дебетовые карты",
+      "offersTypeId": "3"
     }
   ],
   "offersList": [
-	{
-      "country": "RU",
-	  "offerTypeId": "1",
-      "subId": "5",
-      "iconForUpload": "https://i.ibb.co/Mg8bJST/image.png",
-      "offerTitle": "Moneyman",
-      "rating": "5/5",
-      "offerDescription": "Ставка от 0%",
-      "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
-       "isAvailable" : false
-    },
 	{
       "country": "RU",
       "offerTypeId": "1",
