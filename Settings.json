@@ -4,43 +4,51 @@
   "offersMainMenu": [
     {
       "country": "RU",
-      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
-      "titleOfMenuElemnt": "Кредиты",
+      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
+      "titleOfMenuElemnt": "Моментальные займы",
       "offersTypeId": "1"
     },
     {
       "country": "RU",
-      "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
-      "titleOfMenuElemnt": "Дебетовые карты",
+      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
+      "titleOfMenuElemnt": "Займы для улучшения кредитной истории",
+      "offersTypeId": "2"
+    },
+	  
+    {
+      "country": "RU",
+      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
+      "titleOfMenuElemnt": "Займы на карту онлайн",
       "offersTypeId": "3"
-    }
+    },
+	  
   ],
   "offersList": [
 	{
       "country": "RU",
-      "offerTypeId": "1",
-      "subId": "6",
-      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
-      "offerTitle": "УБРиР",
+	"offerTypeId": "1",
+      "subId": "1",
+      "iconForUpload": "https://i.ibb.co/Mg8bJST/image.png",
+      "offerTitle": "Moneyman",
       "rating": "5/5",
-      "offerDescription": "от 5.9 % годовых",
-      "fullDescription": "от 5.9 % годовых. до 1 600 000 рублей без документов по действующим кредитам дополнительные средства наличными по паспорту и справке о доходах или выписке из ПФР",
-       "isAvailable" : false
+      "offerDescription": "Ставка от 0% для новых клиентов",
+      "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+       "isAvailable" : true
     },
 	{
       "country": "RU",
       "offerTypeId": "1",
-      "subId": "9",
-      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
-      "offerTitle": "Открытие банк",
-      "rating": "4/5",
-      "offerDescription": "Решение по заявке за 3 минуты!",
-      "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей",
-       "isAvailable" : false
+      "subId": "2",
+      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+      "offerTitle": "Займер",
+      "rating": "5/5",
+      "offerDescription": "От 0% в день для новых клиентов",
+      "fullDescription": "Нужен только паспорт и номер телефона для полчения займа онлайн. Даже с плохой кредитной историей выдают без процентов и переплат.",
+       "isAvailable" : true
     },
 	{
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "2",
       "subId": "19",
       "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
       "offerTitle": "Банк Открытие",
@@ -51,7 +59,7 @@
     },
 	{
       "country": "RU",
-      "offerTypeId": "3",
+      "offerTypeId": "2",
       "subId": "63",
       "iconForUpload": "https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
       "offerTitle": "Альфа Банк",
@@ -82,17 +90,6 @@
       "fullDescription": "До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц.",
        "isAvailable" : false
     },
-	{
-      "country": "RU",
-      "offerTypeId": "4",
-      "subId": "66",
-      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
-      "offerTitle": "Райффайзен банк",
-      "rating": "5/5",
-      "offerDescription": "Бесплатное обслуживание\nБесплатная доставка для новых клиентов банка",
-      "fullDescription": "Кешбек на все операции - 1,5%. Бесплатное снятие наличных в банкоматах банка и его партнеров",
-       "isAvailable" : false
-    }
   ],
-  "PrivacyPolicyURL": "https://raw.githubusercontent.com/Lukos247/PavelFinanceApp/main/Privacy%20Policy?sub_id="
+  "PrivacyPolicyURL": "https://denstrack.ru/Qd9B84?subid1="
 }
