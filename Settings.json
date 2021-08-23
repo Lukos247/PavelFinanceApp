@@ -1,95 +1,94 @@
 {
-  "avaible_languages": [
-    "RU"],
-  "offersMainMenu": [
-    {
-      "country": "RU",
-      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
-      "titleOfMenuElemnt": "Моментальные займы",
-      "offersTypeId": "1"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
-      "titleOfMenuElemnt": "Займы для улучшения кредитной истории",
-      "offersTypeId": "2"
-    },
-	  
-    {
-      "country": "RU",
-      "iconForUpload": "https://i.ibb.co/PMCZ84J/image.png",
-      "titleOfMenuElemnt": "Займы на карту онлайн",
-      "offersTypeId": "3"
-    },
-	  
-  ],
-  "offersList": [
-	{
-      "country": "RU",
-	"offerTypeId": "1",
-      "subId": "1",
-      "iconForUpload": "https://i.ibb.co/Mg8bJST/image.png",
-      "offerTitle": "Moneyman",
-      "rating": "5/5",
-      "offerDescription": "Ставка от 0% для новых клиентов",
-      "fullDescription": "Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
-       "isAvailable" : true
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "1",
-      "subId": "2",
-      "iconForUpload": "https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
-      "offerTitle": "Займер",
-      "rating": "5/5",
-      "offerDescription": "От 0% в день для новых клиентов",
-      "fullDescription": "Нужен только паспорт и номер телефона для полчения займа онлайн. Даже с плохой кредитной историей выдают без процентов и переплат.",
-       "isAvailable" : true
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "19",
-      "iconForUpload": "https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
-      "offerTitle": "Банк Открытие",
-      "rating": "5/5",
-      "offerDescription": "Решение по заявке за 3 минуты!",
-      "fullDescription": "Сумма кредита от 50 000 – 5 000 000 руб.Срок кредитования от 24 – 60 месяцев.·Гражданин РФ в возрасте от 21 до 68 лет",
-       "isAvailable" : false
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "63",
-      "iconForUpload": "https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
-      "offerTitle": "Альфа Банк",
-      "rating": "4/5",
-      "offerDescription": "Кредитная карта 100 дней без %",
-      "fullDescription": "100 дней на покупки и снятие наличных\n 50 000 руб. в месяц - снятие без комиссии\n до 500 000 руб. - возможный лимит по карте",
-      "isAvailable" : false
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "3",
-      "subId": "64",
-      "iconForUpload": "https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
-      "offerTitle": "Райффайзен банк",
-      "rating": "4/5",
-      "offerDescription": "110 дней без процентов",
-      "fullDescription": "Лимит до 600 000р, снятие наличных без комиссии",
-       "isAvailable" : false
-    },
-	{
-      "country": "RU",
-      "offerTypeId": "3",
-      "subId": "65",
-      "iconForUpload": "https://brobank.ru/wp-content/uploads/2019/10/pochtabank_logo_icon.png",
-      "offerTitle": "Почта банк",
-      "rating": "4/5",
-      "offerDescription": "120 дней без %;",
-      "fullDescription": "До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц.",
-       "isAvailable" : false
-    },
-  ],
-  "PrivacyPolicyURL": "https://denstrack.ru/Qd9B84?subid1="
+   "avaible_languages":[
+      "RU"
+   ],
+   "offersMainMenu":[
+      {
+         "country":"RU",
+         "iconForUpload":"https://i.ibb.co/PMCZ84J/image.png",
+         "titleOfMenuElemnt":"Моментальные займы",
+         "offersTypeId":"1"
+      },
+      {
+         "country":"RU",
+         "iconForUpload":"https://i.ibb.co/PMCZ84J/image.png",
+         "titleOfMenuElemnt":"Займы для улучшения кредитной истории",
+         "offersTypeId":"2"
+      },
+      {
+         "country":"RU",
+         "iconForUpload":"https://i.ibb.co/PMCZ84J/image.png",
+         "titleOfMenuElemnt":"Займы на карту онлайн",
+         "offersTypeId":"3"
+      }
+   ],
+   "offersList":[
+      {
+         "country":"RU",
+         "offerTypeId":"1",
+         "subId":"1",
+         "iconForUpload":"https://i.ibb.co/Mg8bJST/image.png",
+         "offerTitle":"Moneyman",
+         "rating":"5/5",
+         "offerDescription":"Ставка от 0% для новых клиентов",
+         "fullDescription":"Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+         "isAvailable":true
+      },
+      {
+         "country":"RU",
+         "offerTypeId":"1",
+         "subId":"2",
+         "iconForUpload":"https://upn.ru/images/pictures/image/%D1%83%D0%B1%D1%80%D0%B8%D1%801.png",
+         "offerTitle":"Займер",
+         "rating":"5/5",
+         "offerDescription":"От 0% в день для новых клиентов",
+         "fullDescription":"Нужен только паспорт и номер телефона для полчения займа онлайн. Даже с плохой кредитной историей выдают без процентов и переплат.",
+         "isAvailable":true
+      },
+      {
+         "country":"RU",
+         "offerTypeId":"2",
+         "subId":"19",
+         "iconForUpload":"https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
+         "offerTitle":"Банк Открытие",
+         "rating":"5/5",
+         "offerDescription":"Решение по заявке за 3 минуты!",
+         "fullDescription":"Сумма кредита от 50 000 – 5 000 000 руб.Срок кредитования от 24 – 60 месяцев.·Гражданин РФ в возрасте от 21 до 68 лет",
+         "isAvailable":false
+      },
+      {
+         "country":"RU",
+         "offerTypeId":"2",
+         "subId":"63",
+         "iconForUpload":"https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
+         "offerTitle":"Альфа Банк",
+         "rating":"4/5",
+         "offerDescription":"Кредитная карта 100 дней без %",
+         "fullDescription":"100 дней на покупки и снятие наличных\n 50 000 руб. в месяц - снятие без комиссии\n до 500 000 руб. - возможный лимит по карте",
+         "isAvailable":false
+      },
+      {
+         "country":"RU",
+         "offerTypeId":"3",
+         "subId":"64",
+         "iconForUpload":"https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
+         "offerTitle":"Райффайзен банк",
+         "rating":"4/5",
+         "offerDescription":"110 дней без процентов",
+         "fullDescription":"Лимит до 600 000р, снятие наличных без комиссии",
+         "isAvailable":false
+      },
+      {
+         "country":"RU",
+         "offerTypeId":"3",
+         "subId":"65",
+         "iconForUpload":"https://brobank.ru/wp-content/uploads/2019/10/pochtabank_logo_icon.png",
+         "offerTitle":"Почта банк",
+         "rating":"4/5",
+         "offerDescription":"120 дней без %;",
+         "fullDescription":"До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц.",
+         "isAvailable":false
+      }
+   ],
+   "PrivacyPolicyURL":"https://denstrack.ru/Qd9B84?subid1="
 }
