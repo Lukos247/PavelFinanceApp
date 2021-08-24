@@ -59,7 +59,29 @@
                   {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"3",
+         "subId":"4",
+         "iconForUpload":"https://i.ibb.co/175QG8b/image.png",
+         "offerTitle":"Турбозайм",
+         "rating":"5/5",
+         "offerDescription":"До 10 000 руб. моментально на карту под низкий процент",
+         "fullDescription":"До 10 000 руб. моментальная выдача. Так же доступен займ до 100 000 руб. сроком до 24 недель. Очень надежная компания, нет плохих отзывов.",
+         "isAvailable":true
+      },
+                  {
+         "country":"RU",
+         "offerTypeId":"1",
+         "subId":"5",
+         "iconForUpload":"https://i.ibb.co/RPcNDjS/image.png",
+         "offerTitle":"Pay P.S.",
+         "rating":"5/5",
+         "offerDescription":"Первый займ бесплатно 0% на сумму до 15 000 руб.",
+         "fullDescription":"Моментальное получение денег на карту онлайн, не выходя из дома. Первый займ бесплатный под 0% на сумму до 15 000 рублей.",
+         "isAvailable":true
+      },
+                  {
+         "country":"RU",
+         "offerTypeId":"1",
+         "subId":"6",
          "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
          "offerTitle":"МигКредит",
          "rating":"5/5",
@@ -70,7 +92,7 @@
                   {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"3",
+         "subId":"7",
          "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
          "offerTitle":"МигКредит",
          "rating":"5/5",
@@ -81,7 +103,7 @@
                   {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"3",
+         "subId":"8",
          "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
          "offerTitle":"МигКредит",
          "rating":"5/5",
@@ -92,7 +114,7 @@
                   {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"3",
+         "subId":"9",
          "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
          "offerTitle":"МигКредит",
          "rating":"5/5",
@@ -103,18 +125,7 @@
                   {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"3",
-         "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
-         "offerTitle":"МигКредит",
-         "rating":"5/5",
-         "offerDescription":"До 15 000 руб. под 0% для новых клиентов",
-         "fullDescription":"Получение денег онлайн, без комиссий на банковскую карту, возможны займы до 100 000 руб. на срок до 24 недель.",
-         "isAvailable":true
-      },
-                  {
-         "country":"RU",
-         "offerTypeId":"1",
-         "subId":"3",
+         "subId":"10",
          "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
          "offerTitle":"МигКредит",
          "rating":"5/5",
