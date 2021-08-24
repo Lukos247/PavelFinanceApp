@@ -28,10 +28,10 @@
          "offerTypeId":"1",
          "subId":"1",
          "iconForUpload":"https://i.ibb.co/5vM8r9k/image.png",
-         "offerTitle":"Moneyman",
+         "offerTitle":"Moneyman 0%",
          "rating":"5/5",
-         "offerDescription":"Ставка от 0% для новых клиентов",
-         "fullDescription":"Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+         "offerDescription":"До 30 000 руб. под 0%",
+         "fullDescription":"Ставка от 0% для новых клиентов на сумму до 30 000 руб. Так же можно взять займ до 80 000 руб. сроком до 18 недель.",
          "isAvailable":true
       },
             {
@@ -39,21 +39,21 @@
          "offerTypeId":"1",
          "subId":"2",
          "iconForUpload":"https://i.ibb.co/KL0FZbn/image.png",
-         "offerTitle":"Займер",
+         "offerTitle":"Займер 0%",
          "rating":"5/5",
-         "offerDescription":"Ставка от 0% для новых клиентов",
-         "fullDescription":"Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+         "offerDescription":"До 30 000 руб. под 0%",
+         "fullDescription":"Без скрытых платежей и комиссий, получение займа за 15 минут полностью онлайн на вашу карту или счет в банке.",
          "isAvailable":true
       },
             {
          "country":"RU",
          "offerTypeId":"1",
-         "subId":"1",
-         "iconForUpload":"https://i.ibb.co/Mg8bJST/image.png",
-         "offerTitle":"Moneyman",
+         "subId":"3",
+         "iconForUpload":"https://i.ibb.co/f9Jz3tq/image.png",
+         "offerTitle":"МигКредит",
          "rating":"5/5",
-         "offerDescription":"Ставка от 0% для новых клиентов",
-         "fullDescription":"Ставка от 5,4%. Сумма кредита до 5 млн ₽.Срок до 7 лет. Решение онлайн от 2 минут",
+         "offerDescription":"До 15 000 руб. под 0%",
+         "fullDescription":"Получение денег онлайн, без комиссий на банковскую карту, возможны займы до 100 000 руб. на срок до 24 недель.",
          "isAvailable":true
       },
       {
