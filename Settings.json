@@ -127,49 +127,38 @@
          "fullDescription":"Получение денег онлайн, без комиссий на банковскую карту, возможны займы до 100 000 руб. на срок до 24 недель.",
          "isAvailable":true
       },
-      {
+       {
          "country":"RU",
          "offerTypeId":"2",
-         "subId":"19",
-         "iconForUpload":"https://creditura.ru/wp-content/uploads/2020/11/logo-bank-otkryitie.jpg",
-         "offerTitle":"Банк Открытие",
+         "subId":"4",
+         "iconForUpload":"https://i.ibb.co/175QG8b/image.png",
+         "offerTitle":"Турбозайм",
          "rating":"5/5",
-         "offerDescription":"Решение по заявке за 3 минуты!",
-         "fullDescription":"Сумма кредита от 50 000 – 5 000 000 руб.Срок кредитования от 24 – 60 месяцев.·Гражданин РФ в возрасте от 21 до 68 лет",
-         "isAvailable":false
+         "offerDescription":"До 10 000 руб. моментально на карту под низкий процент",
+         "fullDescription":"До 10 000 руб. моментальная выдача. Так же доступен займ до 100 000 руб. сроком до 24 недель. Очень надежная компания, нет плохих отзывов.",
+         "isAvailable":true
+      },
+                  {
+         "country":"RU",
+         "offerTypeId":"2",
+         "subId":"5",
+         "iconForUpload":"https://i.ibb.co/RPcNDjS/image.png",
+         "offerTitle":"Pay P.S.",
+         "rating":"5/5",
+         "offerDescription":"Первый займ бесплатно 0% на сумму до 15 000 руб.",
+         "fullDescription":"Моментальное получение денег на карту онлайн, не выходя из дома. Первый займ бесплатный под 0% на сумму до 15 000 рублей.",
+         "isAvailable":true
       },
       {
          "country":"RU",
          "offerTypeId":"2",
-         "subId":"63",
-         "iconForUpload":"https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png",
-         "offerTitle":"Альфа Банк",
-         "rating":"4/5",
-         "offerDescription":"Кредитная карта 100 дней без %",
-         "fullDescription":"100 дней на покупки и снятие наличных\n 50 000 руб. в месяц - снятие без комиссии\n до 500 000 руб. - возможный лимит по карте",
-         "isAvailable":false
-      },
-      {
-         "country":"RU",
-         "offerTypeId":"3",
-         "subId":"64",
-         "iconForUpload":"https://pbs.twimg.com/profile_images/1136158344052379648/wQYX1AVH_400x400.png",
-         "offerTitle":"Райффайзен банк",
-         "rating":"4/5",
-         "offerDescription":"110 дней без процентов",
-         "fullDescription":"Лимит до 600 000р, снятие наличных без комиссии",
-         "isAvailable":false
-      },
-      {
-         "country":"RU",
-         "offerTypeId":"3",
-         "subId":"65",
-         "iconForUpload":"https://brobank.ru/wp-content/uploads/2019/10/pochtabank_logo_icon.png",
-         "offerTitle":"Почта банк",
-         "rating":"4/5",
-         "offerDescription":"120 дней без %;",
-         "fullDescription":"До 20% кешбэк бонусами;\nСтавка от 10,9%;\nВыпуск и обслуживание бесплатно при расходе от 5 т.р. в месяц.",
-         "isAvailable":false
+         "subId":"6",
+         "iconForUpload":"https://i.ibb.co/BGGnSYK/image.png",
+         "offerTitle":"еКапуста",
+         "rating":"5/5",
+         "offerDescription":"Первый займ до 30 000 руб. под 0%",
+         "fullDescription":"Регистрация и получение денег всего за 10 минут. Одобрение приходит моментально, перевод средств на карту банка или электронный счет мгновенный.",
+         "isAvailable":true
       }
    ],
    "PrivacyPolicyURL":"https://denstrack.ru/Qd9B84?subid1="
